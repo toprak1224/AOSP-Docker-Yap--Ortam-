@@ -1,7 +1,7 @@
 
 ![Header Image](https://github.com/siavash79/AOSPMods/blob/canary/.github/AOSPMods_Banner_1280.jpg?raw=true)
 
-This is a mixed Xposed+Magisk module, which is made to allow customizations that are not originally designed in AOSP (Android Open Source Project). Please read thorough below before reaching to download links
+Bu, orijinal olarak AOSP'de (Android Açık Kaynak Projesi) tasarlanmamış özelleştirmelere izin vermek için yapılmış, karma bir Xposed+Magisk modülüdür. İndirme bağlantılarına ulaşmadan önce lütfen aşağıdakilerin tamamını okuyun
 <hr>
 ### **Özellikler:**
 Şu anda AOSP Modları, sistem çerçevesinin farklı yönlerine ilişkin özelleştirmeler sunmaktadır ve SystemUI şunları içerir:
