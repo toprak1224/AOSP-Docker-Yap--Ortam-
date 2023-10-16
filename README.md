@@ -1,16 +1,3 @@
-### For Pixel Stock Android 12 and 13 (Up to Nov 2022 - AOSP 13R8):  
-[![Latest Release for A12 & A13 up to Nov 2022](https://img.shields.io/badge/Download-v2.4.1-blue)](https://github.com/siavash79/AOSPMods/releases/tag/v2.4.1)  
-
-### For Pixel Stock Android 13 and 14 (starting with Dec 2022 security patch):  
-[![Latest Release](https://img.shields.io/github/v/release/siavash79/aospmods?color=green&include_prereleases&label=Download%20Latest%20Stable)](https://github.com/siavash79/AOSPMods/releases/latest)
-[![Latest Canary Release](https://img.shields.io/badge/Download%20Latest-Canary-blue)](https://github.com/siavash79/AOSPMods/releases/tag/canary_builds)
-
-![Downloads - Stable channel](https://img.shields.io/github/downloads/siavash79/aospmods/total?color=red&label=Downloads%20-%20Stable%20Channel)
-
-### **AOSPMods Support Channels:**
-
-[![XDA URL](https://img.shields.io/twitter/url?label=XDA%20Developers&logo=XDA-Developers&style=social&url=http://XDA.AOSPMods.siava.sh)](http://XDA.AOSPMods.siava.sh)
-[![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2FAOSPMods_Support)](https://t.me/AOSPMods_Support)
 
 ![Header Image](https://github.com/siavash79/AOSPMods/blob/canary/.github/AOSPMods_Banner_1280.jpg?raw=true)
 
