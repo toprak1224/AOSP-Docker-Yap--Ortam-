@@ -1,0 +1,5 @@
+rootProject.name = "AOSPMods"
+include ':app'
+include ':RangeSliderPreference'
+
+project(':RangeSliderPreference').projectDir = new File(rootDir, 'Submodules/RangeSliderPreference/')
