@@ -59,8 +59,6 @@ Modül ayrıca farklı indirme ve güncelleme prosedürlerine sahip 2 farklı s�
 - Otomatik güncellemeler: magisk yöneticisi aracılığıyla veya uygulama içi aracılığıyla güncelleyici
 
 
-https://cevirsozluk.com/
-
 **Çeviriler:**
 - @ElTifo Portuguese
 - @cracky5322 Chinese Traditional
